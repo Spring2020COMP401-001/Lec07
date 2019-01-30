@@ -1,6 +1,6 @@
-package lec7.v4;
+package lec7.v5;
 
-public class Lec6Ex1 {
+public class Lec7Ex1 {
 
 	public static void main (String[] args) {
 		
@@ -11,7 +11,6 @@ public class Lec6Ex1 {
 		Triangle t1 = new Triangle(p1, p2, p3);
 		
 		System.out.println("Perimeter of T1 = " + t1.getPerimeter());
-		System.out.println("");
 		
 		t1.setA(p2);
 		
