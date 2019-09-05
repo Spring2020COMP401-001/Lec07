@@ -1,6 +1,6 @@
-package lec7.v4;
+package lec6.v4;
 
-public class Lec7Ex1 {
+public class Lec6Ex1 {
 
 	public static void main (String[] args) {
 		

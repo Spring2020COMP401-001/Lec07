@@ -1,4 +1,4 @@
-package lec7.v3;
+package lec6.v3;
 
 public class Point {
 

@@ -1,4 +1,4 @@
-package lec7.v9;
+package lec6.v9;
 
 public class PolarPoint implements Point {
 

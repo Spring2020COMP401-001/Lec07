@@ -1,4 +1,4 @@
-package lec7.v6;
+package lec6.v6;
 
 public class CartesianPoint implements Point {
 

@@ -1,4 +1,4 @@
-package lec7.v8;
+package lec6.v8;
 
 interface Triangle {
 	Point getA();
